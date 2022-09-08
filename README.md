@@ -1,4 +1,4 @@
-<h1 align="center">Clone Netflix</h1>
+<a href="https://netflix-clone-5af4a.web.app" align="center">Clone Netflix</a>
 
 <p align="center">
    <img  src="src/components/Assets/n1.png">  
