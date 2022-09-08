@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://netflix-clone-5af4a.web.app" target='_blank'>Clone Netflix</a></h1>
+<h1 align="center"><a href="https://netflix-clone-5af4a.web.app" target="_blank" rel="noopener noreferrer">Clone Netflix</a></h1>
 <p align="center">
    <img  src="src/components/Assets/n1.png">  
 </p>
