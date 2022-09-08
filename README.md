@@ -5,12 +5,12 @@
 </p>
 </br></br>
 <p align="center">
-   <img  src="src/components/assets/n2.png"> 
+   <img  src="src/components/Assets/n2.png"> 
 </p>
 </br></br></br>
 
 <p align="center">
-    <img  src="src/components/assets/n3.png">  
+    <img  src="src/components/Assets/n3.png">  
 </p>
 
 
