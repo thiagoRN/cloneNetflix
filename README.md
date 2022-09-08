@@ -26,5 +26,6 @@ interativa e com responsividade.</p>
 <ul>
    <li>React</li>
    <li>Firebase</li>
-   <li>TypeScript</li>
+   <li>JavaScript</li>
+   <li>CSS</li>
 </ul>
